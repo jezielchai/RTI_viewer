@@ -1,0 +1,58 @@
+﻿Build started 11/21/2014 11:51:33 AM.
+     1>Project "C:\Users\jetumblin\Desktop\rtiviewer_src\compression\src\jpeg2000.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Moc'ing jpeg2000.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\qt\5.3\msvc2013_64\include /IC:\qt\5.3\msvc2013_64\include\QtGui /IC:\qt\5.3\msvc2013_64\include\QtANGLE /IC:\qt\5.3\msvc2013_64\include\QtCore /Idebug /I"C:\qt\5.3\msvc2013_64\mkspecs\win32-msvc2013" /Zi /nologo /W0 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D OPJ_STATIC /D QT_GUI_LIB /D QT_CORE_LIB /D QT_OPENGL_ES_2 /D QT_OPENGL_ES_2_ANGLE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -Zm200 GeneratedFiles\Debug\moc_jpeg2000.cpp jpeg2000.cpp
+         moc_jpeg2000.cpp
+         jpeg2000.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\qt\5.3\msvc2013_64\include /IC:\qt\5.3\msvc2013_64\include\QtGui /IC:\qt\5.3\msvc2013_64\include\QtANGLE /IC:\qt\5.3\msvc2013_64\include\QtCore /Idebug /I"C:\qt\5.3\msvc2013_64\mkspecs\win32-msvc2013" /Zi /nologo /W0 /WX- /Od /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D OPJ_STATIC /D QT_GUI_LIB /D QT_CORE_LIB /D QT_OPENGL_ES_2 /D QT_OPENGL_ES_2_ANGLE /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt -Zm200 openjpeg\bio.c openjpeg\cio.c openjpeg\dwt.c openjpeg\event.c openjpeg\image.c openjpeg\j2k.c openjpeg\j2k_lib.c openjpeg\jp2.c openjpeg\jpt.c openjpeg\mct.c openjpeg\mqc.c openjpeg\openjpeg.c openjpeg\pi.c openjpeg\raw.c openjpeg\t1.c openjpeg\t1_generate_luts.c openjpeg\t2.c openjpeg\tcd.c openjpeg\tgt.c
+         bio.c
+         cio.c
+         dwt.c
+         event.c
+         image.c
+         j2k.c
+         j2k_lib.c
+         jp2.c
+         jpt.c
+         mct.c
+         mqc.c
+         openjpeg.c
+         pi.c
+         raw.c
+         t1.c
+         t1_generate_luts.c
+         t2.c
+         tcd.c
+         tgt.c
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"lib\jpeg2000.lib" /NOLOGO Win32\Debug\moc_jpeg2000.obj
+         Win32\Debug\bio.obj
+         Win32\Debug\cio.obj
+         Win32\Debug\dwt.obj
+         Win32\Debug\event.obj
+         Win32\Debug\image.obj
+         Win32\Debug\j2k.obj
+         Win32\Debug\j2k_lib.obj
+         Win32\Debug\jp2.obj
+         Win32\Debug\jpeg2000.obj
+         Win32\Debug\jpt.obj
+         Win32\Debug\mct.obj
+         Win32\Debug\mqc.obj
+         Win32\Debug\openjpeg.obj
+         Win32\Debug\pi.obj
+         Win32\Debug\raw.obj
+         Win32\Debug\t1.obj
+         Win32\Debug\t1_generate_luts.obj
+         Win32\Debug\t2.obj
+         Win32\Debug\tcd.obj
+         Win32\Debug\tgt.obj
+         jpeg2000.vcxproj -> C:\Users\jetumblin\Desktop\rtiviewer_src\compression\src\lib\jpeg2000.lib
+     1>Done Building Project "C:\Users\jetumblin\Desktop\rtiviewer_src\compression\src\jpeg2000.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.02
